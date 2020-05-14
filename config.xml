@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "app.seamansbook.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. SEAMANSBOOK</name>
+    <name>SEAMANSBOOK</name>
 
     <description>
         Приложение для обучения и подготовки моряков, к морским экзаменам.
@@ -41,12 +41,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/b6f7b351e6263844d5525e81c47570af.png" density="ldpi" />
-        <icon src="res/android/icon/11e56cc5a377378be33c6acaa4589fe2.png" density="mdpi" />
-        <icon src="res/android/icon/0bbf99f285afd71cad770b4488681c7f.png" density="hdpi" />
-        <icon src="res/android/icon/5eddd87c35c4665d1193299eaf5e9a33.png" density="xhdpi" />
-        <icon src="res/android/icon/a30a3d69a95f87b0932c6ca964be1dd6.png" density="xxhdpi" />
-        <icon src="res/android/icon/449d856fae7bbf5cd9b821c77926ad17.png" density="xxxhdpi" />
+        <icon src="res/android/icon/f27c1428ac529fa3928040aa5a29b6fa.png" density="ldpi" />
+        <icon src="res/android/icon/57a4943e7605852479954b3568448ba9.png" density="mdpi" />
+        <icon src="res/android/icon/bd4d3775f050ea36ec8f73c977b6b288.png" density="hdpi" />
+        <icon src="res/android/icon/1822e01c6b2b1802b51e1b8128ce8a1d.png" density="xhdpi" />
+        <icon src="res/android/icon/5b83e01ae3ac3cbdeee9ced78bc331e9.png" density="xxhdpi" />
+        <icon src="res/android/icon/fabdb593f75e32945744ffe72b0ceb4e.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/513ff77968d4157ef3a3ad07bd36346a.png" density="port-hdpi"/>
         <splash src="res/android/screen/22cd6dd2feac9a9d5a66eafbee54879f.png" density="port-ldpi"/>
